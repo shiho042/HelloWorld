@@ -2,12 +2,25 @@ title:exotic class item wish list.
 dimwishlist:item=266021826&perks=1476923953,3573490500#inmost armametariam
 dimwishlist:item=266021826&perks=3573490511,1476923955#eternal warrior star-eater
 dimwishlist:item=266021826&perks=1476923952,1476923956#assassin synthoceps
-dimwishlist:item=266021826&perks=3573490508,3573490506#hoarfrost horn?
+dimwishlist:item=266021826&perks=3573490508,3573490506#hoarfrost horn??
+dimwishlist:item=266021826&perks=1476923953,3573490504 #inmost contact
+dimwishlist:item=266021826&perks=3573490505,3573490500 #bear arma
+dimwishlist:item=266021826&perks=3573490508,3573490506 #hoarfrost horn
+dimwishlist:item=266021826&perks=1476923953,1476923955 #inmost star-eater
+dimwishlist:item=266021826&perks=1476923953,3573490507 #inmost scars
+dimwishlist:item=266021826&perks=1476923953,1476923957 #inmost verity
+
 dimwishlist:item=2809120022&perks=1476923952,3751917992#assassin liar
 dimwishlist:item=2809120022&perks=1476923953,3751917992#inmost liar
 dimwishlist:item=2809120022&perks=1476923953,3751917994#inmost cyrtarachne
+
 dimwishlist:item=2273643087&perks=1476923952,1476923956#assassin synthoceps
 dimwishlist:item=2273643087&perks=183430255,1476923955#filament star-eater, for void weaken
-dimwishlist:item=2273643087&perks=183430248,183430254#stag harmony, for survival?
+dimwishlist:item=2273643087&perks=183430248,183430254#stag harmony, for survival??
+dimwishlist:item=2273643087&perks=1476923953,1476923955 #inmost star-eater
+dimwishlist:item=2273643087&perks=183430253,1476923955 #osmio star-eater
+dimwishlist:item=2273643087&perks=183430253,183430249 #osmio starfire
+dimwishlist:item=2273643087&perks=1476923952,1476923956 #assassin syntho
+dimwishlist:item=2273643087&perks=1476923954,183430254 #pvp ophidian harmony
 
 
