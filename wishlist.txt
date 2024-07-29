@@ -13,6 +13,7 @@ dimwishlist:item=266021826&perks=1476923953,1476923957 #inmost verity
 dimwishlist:item=2809120022&perks=1476923952,3751917992#assassin liar
 dimwishlist:item=2809120022&perks=1476923953,3751917992#inmost liar
 dimwishlist:item=2809120022&perks=1476923953,3751917994#inmost cyrtarachne
+dimwishlist:item=2809120022&perks=3751917997,1476923955 #star-eater foetracer
 
 dimwishlist:item=2273643087&perks=1476923952,1476923956#assassin synthoceps
 dimwishlist:item=2273643087&perks=183430255,1476923955#filament star-eater, for void weaken
