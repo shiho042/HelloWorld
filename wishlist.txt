@@ -23,5 +23,6 @@ dimwishlist:item=2273643087&perks=183430253,1476923955 #osmio star-eater
 dimwishlist:item=2273643087&perks=183430253,183430249 #osmio starfire
 dimwishlist:item=2273643087&perks=1476923952,1476923956 #assassin syntho
 dimwishlist:item=2273643087&perks=1476923954,183430254 #pvp ophidian harmony
+dimwishlist:item=2273643087&perks=183430253,1476923957 #osmio verity
 
 
